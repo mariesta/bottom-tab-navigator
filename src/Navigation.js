@@ -18,7 +18,7 @@ const tabs = [{
   label: "Login"
 }]
 
-const BottomTabNavigator = (props) => {
+const Navigation = (props) => {
 
   return (
     <div>
@@ -61,4 +61,4 @@ const BottomTabNavigator = (props) => {
   )
 };
 
-export default BottomTabNavigator;
+export default Navigation;
